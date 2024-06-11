@@ -1,4 +1,4 @@
-# Hi, I'm Al Farhan 👋
+# Hi, I'm Farhan 👋
 
 ![pexels-kevin-ku-92347-577585](https://github.com/Al-Farhan/al-farhan/assets/95585017/97d1a529-03dd-4da7-8303-46e6976f5ad3)
 
