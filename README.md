@@ -1,6 +1,6 @@
 # Hi, I'm Al Farhan 👋
 
-![Tech Banner](https://cdn.pixabay.com/photo/2018/03/27/19/10/computer-3269656_1280.jpg
+![pexels-kevin-ku-92347-577585](https://github.com/Al-Farhan/al-farhan/assets/95585017/97d1a529-03dd-4da7-8303-46e6976f5ad3)
 
 Welcome to my GitHub profile! I'm a passionate developer with experience in web development and a strong background in Full stack (MERN) technologies.
 
@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in web 
 ### Falconsaa
 -(https://falconsaa.vercel.app)
 
+![image](https://github.com/Al-Farhan/al-farhan/assets/95585017/c04711d3-ae0b-471b-bb8e-a98e78663a78)
+
 ## Get in Touch
 
 - [LinkedIn](https://linkedin.com/in/al-farhan)
@@ -34,6 +36,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ## Fun Fact
 
-When I'm not coding, you might find me exploring new places, trying out new recipes, or diving into a good book.
+When I'm not coding, you might find me exploring new places, or diving into a good book.
 
 Thanks for visiting my profile!
+![pexels-gratisography-519](https://github.com/Al-Farhan/al-farhan/assets/95585017/ad49eee1-e616-486f-8797-273decb45759)
